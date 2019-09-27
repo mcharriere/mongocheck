@@ -1,6 +1,6 @@
 # mongocheck
 
-## Installation
+## Installing deps
 
 `make get`
 
