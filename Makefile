@@ -1,8 +1,8 @@
 
-.PHONY: build install
+.PHONY: build get
 
 build:
 	go build -o bin/mongocheck
 
-install:
-	go install
+get:
+	go get
